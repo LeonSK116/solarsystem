@@ -28,3 +28,6 @@ If you enjoy it, please consider [donating via Paypal](https://www.paypal.me/pic
 ### Data sources
 - [NASA Solar System Exploration](https://solarsystem.nasa.gov/)
 - [Solar System - Wikipedia](https://en.wikipedia.org/wiki/Solar_System)
+
+>[! NOTE]
+>Each planet can be removed by simply comment in the index.html
